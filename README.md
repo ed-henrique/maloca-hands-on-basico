@@ -3,7 +3,7 @@
 Projetos realizados no curso Maloca das iCoisas pelo grupo 13 - Os Suricatos Cibernéticos.
 
 ## Big Picture
-
+### Storytelling
 ![Big Picture](./big_picture.png)
 ### Situação Hipotética
 
