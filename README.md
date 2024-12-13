@@ -8,11 +8,11 @@ Projetos realizados no curso Maloca das iCoisas pelo grupo 13 - Os Suricatos Cib
 graph TD
     PO["Product Owner"]
 
-    SM["Scrum Master<br>Eduardo Henrique Freire Machado"]
+    SM["Scrum Master/Desenvolvedor<br>Eduardo Henrique Freire Machado"]
 
-    ED1["Eduardo Henrique Freire Machado"]
-    ED2["Gabriel Peixoto Menezes da Costa"]
-    ED3["Natália Ribeiro de Almada"]
+    ED1["Desenvolvedor<br>Eduardo Henrique Freire Machado"]
+    ED2["Desenvolvedor<br>Gabriel Peixoto Menezes da Costa"]
+    ED3["Desenvolvedor<br>Natália Ribeiro de Almada"]
 
     PO --- SM
 
