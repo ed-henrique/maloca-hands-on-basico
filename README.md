@@ -5,6 +5,14 @@ Projetos realizados no curso Maloca das iCoisas pelo grupo 13 - Os Suricatos Cib
 ## Big Picture
 
 ![Big Picture](./big_picture.png)
+### Situação Hipotética
+
+1. Pessoa doente vai para o hospital, é atendida e admitida na internação;
+2. Médicos colocam sensores de temperatura fixos no corpo da paciente;
+3. Sensor de temperatura é conectado a uma base de dados alimentada em tempo real;
+4. Quando a temperatua do paciente for ≥ 37.8 ºC, o sistema emite um alerta para os profissionais envolvidos;
+5. O sistema registra o histórico da temperatura do paciente na base de dados;
+6. O profissional verifica condição do paciente após alertas.
 
 ## Equipe
 
