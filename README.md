@@ -4,9 +4,28 @@ Projetos realizados no curso Maloca das iCoisas pelo grupo 13 - Os Suricatos Cib
 
 ## Equipe
 
-**Product Owner**:
+```
+                      +---------------+
+                      | Product Owner |
+                      +---------------+
+                              |
+                              v
+                     +------------------+
+                     | Scrum Master     |
+                     | Eduardo Henrique |
+                     +------------------+
+                              |
+         +--------------------+------------------+
+         |                    |                  |
+         v                    v                  v
++------------------+ +-----------------+ +----------------+
+| Eduardo Henrique | | Gabriel Peixoto | | Natália Almada |
++------------------+ +-----------------+ +----------------+
 
-**Scrum Master**: Eduardo Henrique Freire Machado
+```
+
+- **Product Owner**
+- **Scrum Master**: Eduardo Henrique Freire Machado
 
 ### Equipe de Desenvolvimento
 
