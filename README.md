@@ -50,4 +50,5 @@ Projetos realizados no curso Maloca das iCoisas pelo grupo 13 - Os Suricatos Cib
 - [Kanban](https://trello.com/b/ZGD00PBo/hands-on-maloca)
 - [Big Picture]()
 - [Esquema de Conexão](https://wokwi.com/projects/417194889520795649)
+- [Documento de Definição de Pronto](https://docs.google.com/document/d/19DEppOgMY5BuyY0HxtlvK1HDf5n62W19/edit)
 - [Documento de Requisitos Funcionais](https://docs.google.com/document/d/17LjGt8pkkPYk2qunanWLQsBvVkvb5q1w/edit)
