@@ -57,7 +57,7 @@ Projetos realizados no curso Maloca das iCoisas pelo grupo 13 - Os Suricatos Cib
 
 ## Recursos
 
-- [Pitch]([https://trello.com/b/ZGD00PBo/hands-on-maloca](https://www.canva.com/design/DAGZ3R3MyE4/rqdrzCDqPH6dExHXgRsWZw/edit?utm_content=DAGZ3R3MyE4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+- [Pitch](https://www.canva.com/design/DAGZ3R3MyE4/rqdrzCDqPH6dExHXgRsWZw/edit?utm_content=DAGZ3R3MyE4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Kanban](https://trello.com/b/ZGD00PBo/hands-on-maloca)
 - [Big Picture]()
 - [Esquema de Conexão](https://wokwi.com/projects/417194889520795649)
